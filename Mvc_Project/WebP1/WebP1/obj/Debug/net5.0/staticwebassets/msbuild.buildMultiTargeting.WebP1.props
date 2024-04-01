@@ -1,0 +1,3 @@
+﻿<Project>
+  <Import Project="..\build\WebP1.props" />
+</Project>
